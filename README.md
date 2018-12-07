@@ -1,4 +1,4 @@
-# 90's music audio player
+#Bloc-Jams-React
 <img src="githubImg/audio.png"/>
 
 ## Description
